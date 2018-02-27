@@ -6,7 +6,7 @@ Note - these documents are currently in draft form and are being updated to refl
 
 ## Contributing
 
-See [CONTRIBUTING](CONTRIBUTING.md) for additional information.
+To add changes to this draft RFP, create a form with your changes and submit a [pull request](/pulls) to merge into `master`. Please add the appropriate reviewer(s) to your PR and get a :thumbsup: before merging.
 
 
 ## Public domain
