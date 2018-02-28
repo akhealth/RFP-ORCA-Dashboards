@@ -217,11 +217,9 @@ Is this necessary? Is there a reason for providing the option to
 submit questions in writing? Is this an privacy concern?
 
 Procurement Officer: Susan Jabal<br/>
-email: <susan.jabal@alaska.gov
+email: susan.jabal@alaska.gov
 
 ### <a name="1.07"></a>Sec. 1.07 Return Instructions
-
-[This has changed since the DPA project – we are now preferring email submission - FYI]
 
 ***Email Submission***
 
@@ -354,7 +352,7 @@ RESERVED
 #### (f) Certification Regarding Debarment, Suspension, Ineligibility and Voluntary Exclusion Lower Tier Covered Transactions
 
 Each proposal must include a signed certification form, see [SECTION 8
-EXHIBITS](#8.2).
+EXHIBITS](#section-8-exhibits).
 
 ### <a name="1.09"></a>Sec. 1.09 Assistance to Offerors with a Disability
 
