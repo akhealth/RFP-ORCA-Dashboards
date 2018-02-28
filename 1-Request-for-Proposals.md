@@ -152,7 +152,7 @@ contingent upon legislative appropriation.
 
 ### <a name="1.03"></a>Sec. 1.03 Deadline for Receipt of Proposals
 
-Proposals must be received no later than 4:00 PM Alaska Standard Time on November 27, 2017. Faxed, emailed, and oral proposals are not acceptable.
+Proposals must be received no later than [INSERT TIME] Alaska Standard Time on [INSERT DATE]. Faxed, emailed, and oral proposals are not acceptable.
 
 ### <a name="1.04"></a>Sec. 1.04 Minimum Responsiveness
 
@@ -204,8 +204,8 @@ proposals.
 ### <a name="1.06"></a>Sec. 1.06 Questions Prior to Deadline for Receipt of Proposals
 
 Questions or comments regarding this RFP shall be submitted as  issues
-within this RFP's GitHub repository no later than 4:00 PM (Alaska
-Prevailing time) on November 15, 2017, to allow the State sufficient
+within this RFP's GitHub repository no later than [INSERT TIME] (Alaska
+Prevailing time) on [INSERT DATE], to allow the State sufficient
 time to respond. All questions and comments will be publicly
 available. Please subscribe to the repository if your firm would like
 updates about changes and comments. Questions or comments received
@@ -221,8 +221,7 @@ email: <susan.jabal@alaska.gov
 
 ### <a name="1.07"></a>Sec. 1.07 Return Instructions
 
-this has changed since the DPA project – we are now preferring email
-submission - FYI
+[This has changed since the DPA project – we are now preferring email submission - FYI]
 
 ***Email Submission***
 
@@ -269,7 +268,7 @@ The sealed proposal package(s) must be addressed as follows:
 > Department of Health and Social Services<br/>
 Division of Finance and Management Services<br/>
 Attention: Susan Jabal, Procurement Officer<br/>
-RFP Number: 1800000XX<br/>
+RFP Number: 1800000XX [UPDATE RFP NUMBER]<br/>
 RFP Title: ORCA Mobile Access Tool
 
 If mailing via US Mail, please use the following address:
@@ -386,19 +385,19 @@ estimate of the schedule that will be followed. If a component of this
 schedule, such as the deadline for receipt of proposals, is delayed, the
 rest of the schedule may be shifted by the same number of days.
 
--    Issue RFP on November 3, 2017,
+-    Issue RFP on [UPDATE DATE],
 
--    Deadline for receipt of questions by November 15, 2017,
+-    Deadline for receipt of questions by [UPDATE DATE],
 
--    Deadline for receipt of proposals on November 27, 2017,
+-    Deadline for receipt of proposals on [UPDATE DATE],
 
--    Interviews conducted with qualifying offerors on December 4 - 8, 2017,
+-    Interviews conducted with qualifying offerors on [UPDATE DATE],
 
--    Proposal Evaluation Committee complete evaluation by December 15, 2017,
+-    Proposal Evaluation Committee complete evaluation by [UPDATE DATE],
 
--    State of Alaska issues Notice of Intent to Award a contract on December 15, 2017,
+-    State of Alaska issues Notice of Intent to Award a contract on [UPDATE DATE],
 
--    State of Alaska issues contract on December 20, 2017.
+-    State of Alaska issues contract on [UPDATE DATE].
 
 This RFP does not, by itself, obligate the state. The state's obligation
 will commence when the contract is approved by the Commissioner of the
@@ -428,12 +427,16 @@ BACKGROUND
 
 The background for this project as a whole is detailed in the project
 README in DHSS primary [GitHub Repo](#). In short, for this first
-acquisition, we want to focus on... need to update.
+acquisition, we want to focus on...
+
+[UPDATE]
 
 OBJECTIVES
 
 Alaska Department of Health and Social Services Office of Children’s
-Services (OCS) goals for ORCA mobility are as follows: need to update.
+Services (OCS) goals for ORCA mobility are as follows: 
+
+[UPDATE]
 
 Add in background of QAP and how the agile process will work.
 
@@ -441,19 +444,11 @@ Add in background of QAP and how the agile process will work.
 
 ### <a name="3.01"></a>Sec. 3.01  Scope of Work
 
- **Need to update**
-
- The State of Alaska will provide documentation on how to access data
- sources, describe existing authentication systems, and discuss how to
- continuously deploy work to a staging environment. This may need to be
- updated?
+[UPDATE WITH SCOPE OF WORK]
 
 ### <a name="3.02"></a>Sec. 3.02 Requirements
 
  The Contractor shall provide the following services:
-
- **Need to update the below. For reference, this is what was in DPA
- RFP:**
 
 1.  Contractor shall review existing research artifacts and conduct
     additional user research in order to determine user needs so that
@@ -530,9 +525,6 @@ Add in background of QAP and how the agile process will work.
 
 ### <a name="3.03"></a>Sec. 3.03 Project Management Requirements
 
- **Need to update the below if this section is appropriate to this RFP.
- For reference, this is what was in DPA RFP:**
-
  **Project Management**
 
  The contractor shall provide a Project Manager point of contact for
@@ -581,9 +573,6 @@ Add in background of QAP and how the agile process will work.
 
 ### <a name="3.04"></a>Sec. 3.04 Transition Requirements
 
-**Need to update the below if this section is appropriate to this RFP.
-For reference, this is what was in DPA RFP:**
-
  **Transition Activities**
 
  The Contractor shall:
@@ -611,9 +600,6 @@ For reference, this is what was in DPA RFP:**
     the COR within two weeks of the COR’s request.
 
 ### <a name="3.05"></a>Sec. 3.05 Personnel
-
- **Need to update the below. For reference, this is what was in DPA
- RFP:**
 
  Alaska envisions the need for the following skillsets as part of the
  Contractors' team:
@@ -678,15 +664,12 @@ b.  At a minimum, a Project Manager and a Technical Lead must be
 ### <a name="3.06"></a>Sec. 3.06 Contract Term and Work Schedule
 
  The length of the contract will be from the date of award,
- approximately December 15, 2017 for approximately 4 months until
- completion, approximately April 15, 2018. **Need to update **
+ approximately [UPDATE DATE] for approximately 4 months until
+ completion, approximately [UPDATE DATE]. 
 
 ### <a name="3.07"></a>Sec. 3.07 Deliverables
 
- **Need to update the below. For reference, this is what was in DPA
- RFP:**
-
- ##### Table 1 List of Deliverables
+##### Table 1 List of Deliverables
 **Deliverable** | **Due Date** | **Description**
 --- | --- | ---
 Code & Status Reports | 1 business day after each sprint | Demonstration of progress throughout each sprint.
@@ -890,20 +873,10 @@ If an open source license provides implementation guidance, the contractor shall
 
 ### <a name="4.01"></a>Sec. 4.01 Proposal Format
 
-**Need to update the below. For reference, below is what was in the DPA
-RFP:**
-
-**This is the section where I suggest we consider evaluation priorities
-first. We want to be sure we request** **the correct/necessary info from
-vendors so that OCS can evaluate effectively to meet their chosen
-criteria.**
-
-
- The state discourages overly lengthy and costly proposals, with
- proposals of seven (7) per DPA project feedback – suggest we increase
- this a bit. 14? 20? or fewer pages encouraged. In order for the state
- to evaluate proposals fairly and completely, offerors must follow the
- format set out in this RFP and provide all information requested.
+The state discourages overly lengthy and costly proposals, with
+proposals of seven (7) or fewer pages encouraged. In order for the state
+to evaluate proposals fairly and completely, offerors must follow the
+format set out in this RFP and provide all information requested.
 
 ### <a name="4.02"></a>Sec. 4.02 Introduction
 
@@ -1042,14 +1015,6 @@ An evaluation may not be based on discrimination due to the race, religion, colo
 ## Section 5. EVALUATION CRITERIA AND CONTRACTOR SELECTION
 
 **THE TOTAL NUMBER OF POINTS USED TO SCORE THIS PROPOSAL IS 1,000**
-
- **This section will need to be updated to match OCS priorities. **
-
- **Let’s also discuss evaluation % for cost. Requirement is 40%;
- however, as you see below (20%) – we can request a waiver if we can
- justify why.**
-
- **Below is what DPA had, for reference.**
 
 ### <a name="5.01"></a>Sec. 5.01 Technical Understanding And Approach (10%)
 
@@ -1907,6 +1872,10 @@ NOTES:
 
 **EVALUATOR'S COMBINED POINT TOTAL FOR ALL EVALUATED SECTIONS:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+*The remaining 30% (300 points) is allocated as described in Section 5: Evaluation Criteria and Contractor Selection. 
+Cost (20% - 200 points) and the Alaska Offeror’s Preference (10% - 100 points).
+
 
 ### <a name="8.4"></a>Exhibit 4. Standard Agreement Form (With Appendices)
 
