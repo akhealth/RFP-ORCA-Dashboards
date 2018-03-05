@@ -156,35 +156,17 @@ Proposals must be received no later than [INSERT TIME] Alaska Standard Time on [
 
 ### <a name="1.04"></a>Sec. 1.04 Minimum Responsiveness
 
--   The offeror must provide two examples of web-based platforms. While not required, we strongly prefer that at least one of these projects have been developed and released using open source principles and licensing. The examples provided must reflect aspects of data security, and should show aspects of strong user driven design in a web application.** The projects must have been delivered by either a) the offeror itself or, alternatively, b) a teaming partner that is proposed in response to this RFP, or, alternatively, c) any Key Personnel that is being proposed in response to this RFP. In the project summary, be sure to identify how the offeror’s team was involved in the development. At a minimum, provide:
+The offeror must provide two examples of web-based platform projects they have developed. These projects
+must be similar in scope to the project in this RFP, and must involve building usable, responsive, user-facing web applications within the past three (3) years. These examples must have been delivered by at least one of the following:
 
-    -   Recent and similar technical scope is past experience with
-        building usable, responsive, user-facing web applications,
-        within the past three (3) years.
+* the offeror itself, or
+* a teaming partner that is proposed in response to this RFP, or,
+* any Key Personnel that is being proposed in response to this RFP
 
-    -   We prefer links to the public Git repository
-        that includes the source code that was developed and accepted
-        for the project. Actual access to a publicly available Git
-        repository is strongly encouraged over screenshots of private
-        repositories. The summary should also include live links of the
-        final product or current staging environment. If live links are
-        not available, screenshots can be provided, along with a brief
-        explanation as to why the project is no longer live. Note that
-        screenshots will not be counted towards your 9-page limitation;
-        please provide screenshots as attachments. The projects should
-        be recent and similar to the size and technical scope of this
-        requirement.
-
--   The vendor must have experience working with clients using modern
-    software development approaches. These approaches must include
-    cross-functional teams that use human-centered design, build with
-    modern technology stacks, and use an iterative, agile approach to
-    continuously deliver working software to their clients;
-
--   The vendor’s team must ensure their agile ceremonies are conducted
-    at times that are consistent with the State of Alaska’s normal
-    business hours (8:00AM–5:00PM Alaska Standard Time).
-
+The vendor must have experience working with clients using modern software development approaches.
+These approaches must include cross-functional teams that use human-centered design, build with modern
+technology stacks, and use an iterative, agile approach to continuously deliver working software to their
+clients.
 
 ### <a name="1.05"></a>Sec. 1.05 Required Review
 
@@ -421,28 +403,54 @@ approval of the project director.
 
 ### <a name="2.01"></a>Sec. 2.01 Background Information
 
-BACKGROUND
+**BACKGROUND**
 
-The background for this project as a whole is detailed in the project
-README in DHSS primary [GitHub Repo](#). In short, for this first
-acquisition, we want to focus on...
+The background for this project as a whole is detailed in the project README in the [DHSS primary GitHub Repo](https://github.com/AlaskaDHSS/ORCA-Modernization).
 
-[UPDATE]
+In short, for this acquisition, OCS seeks modular procurement activities and agile development methodology to be used in the development of a secure system allowing users mobile access to OCS’s ORCA comprehensive data system. This piece will be the first one of a broader vision for modernization effort of the ORCA system.
 
-OBJECTIVES
+**OBJECTIVES**
 
-Alaska Department of Health and Social Services Office of Children’s
-Services (OCS) goals for ORCA mobility are as follows: 
+ORCA Users need to be able to access and document key information such as entering case notes, reviewing
+Protective Services Reports (PSR), and searching for any child protection matters related to a prospective
+placement resource from a mobile device.
 
-[UPDATE]
+This initiative will focus on Initial Assessment (investigation) staff needs to have mobile friendly capabilities to access/document information. New, device agnostic pages for mobile applications will be created in .NET.
 
-Add in background of QAP and how the agile process will work.
+A focus group with 18F, end users, and the ORCA team determined which business needs are the highest
+priorities, ranked in order: 
+
+1. Login to ORCA from (state issued) mobile device. When logged in users are securely connected to the
+ORCA database, the user profile, security profile and privileges are the same as in the existing
+system.
+2. Once logged in, users view a personalized mobile landing page that displays a list of protective
+services reports assigned to the user to investigate.
+3. Users can select a PSR to view details such as the allegation and narrative, case participant names
+and contact information.
+4. Users can document case notes for any assigned PSR. Included details are date occurred, attributes
+of the activity and a narrated description. The narrative can either be typed or dictated via voice to
+text (being researched – Waldo).
+5. Users can assess PSRs without internet connectivity.
+6. Users can document case notes without internet connectivity.
+
+The above priorities are subject to change as the project moves forward and additional considerations are
+identified. OCS expects the successful vendor will help to identify additional and beneficial considerations,
+and be flexible and able to easily adapt accordingly.
+
+**QUALITY ASSURANCE PAN (QAP)**
+
+A Quality Assurance Plan (QAP) has been developed to evaluate the successful contractor’s actions while implementing the Scope of Work. The QAP is designed to provide an effective method of monitoring contractor performance for each listed objective on the Performance Requirements Matrix. It also provides a systematic method to evaluate the services
+the contractor is required to furnish.
+
+The draft QAP is provided in a [separate file in this repository](2-Quality-Assurance-Plan.md).
 
 ## Section 3. SCOPE OF WORK & CONTRACT INFORMATION
 
 ### <a name="3.01"></a>Sec. 3.01  Scope of Work
 
-[UPDATE WITH SCOPE OF WORK]
+The State of Alaska, Office of Children’s Services (OCS) requires agile developer services to deliver iterations of a secure system allowing mobile access to the states comprehensive data system, the Online Resource for the Children of Alaska (ORCA). The current objectives of the mobility piece are identified above in Section 2.01: Background Information.
+
+The State of Alaska will provide documentation on how to access data sources, describe existing authentication systems, and discuss how to deploy work to a staging environment This documentation is intended to be help interested vendors further understand the limits of their responsibility within the broader scope of ORCA.
 
 ### <a name="3.02"></a>Sec. 3.02 Requirements
 
@@ -599,65 +607,57 @@ Add in background of QAP and how the agile process will work.
 
 ### <a name="3.05"></a>Sec. 3.05 Personnel
 
- Alaska envisions the need for the following skillsets as part of the
- Contractors' team:
+Alaska envisions the need for the following skillsets as part of the
+Contractors' team:
 
- Project manager Technical lead
+* Project manager Technical lead
+* Developers (front-end, back-end or full stack) 
+* Researcher
+* User experience designer
+* Visual designer
+* Scrum Master (or equivalent)
 
- Developers (front-end, back-end or full stack) Researcher
+**Desired Skills and Knowledge**
 
- User experience designer
+The Contractor team shall have knowledge and skills in the following
+areas:
 
- Visual designer
+* Microsoft Technology: 
+ - Azure cloud platform 
+ - ASP.NET web applications 
+ - .NET Core framework 
+ - C\# language 
+ - SQL Server
 
- Scrum Master (or equivalent)
+* General Technology: 
+ - HTML, CSS 
+ - Javascript 
+ - Responsive design 
+ - SQL (language) 
+ - Git 
+ - Experience building and using building REST APIs 
+ - Service-based architecture 
+ - Automated unit and integration testing 
+ - Continuous integration and continuous delivery
 
- **Desired Skills and Knowledge**
+**Key Personnel**
 
- The Contractor team shall have knowledge and skills in the following
- areas:
+The following requirements related to personnel must be met:
 
--   Microsoft Technology: - Azure cloud platform - ASP.NET web
-     applications - .NET Core framework - C\# language - SQL Server
+a.  The Contractor shall assign to perform this contract those persons whose résumés are submitted with its quotation and who are identified in the Contractor’s quotation as Key Personnel.
 
--   General Technology: - HTML, CSS - Javascript - Responsive design -
-     SQL (language) - Git - Experience working with SOAP APIs and using
-     / building REST APIs - Service-based architecture - Automated unit
-     and integration testing - Continuous integration and continuous
-     delivery
+b.  At a minimum, a Project Manager and a Technical Lead must be identified and designated as Key Personnel.
 
- **Key Personnel**
+*The Project Manager* will be a direct liaison to the Alaska product team. The Project Manager is responsible for the supervision and management of the Contractor’s personnel, technical assistance, and interface. Desired skills/experience for the Project Manager include:
 
- The following requirements related to personnel must be met:
+* Experience in technical leadership.
+* Ability to rapidly prioritize competing requirements.
+* Ability to understand and simplify customer requirements.
+* Ability to communicate end user feedback to technical and design leads.
+* Strong communication skills.
+* Proven knowledge of industry standards.
 
-a.  The Contractor shall assign to perform this contract those persons
-    whose résumés are submitted with its quotation and who are
-    identified in the Contractor’s quotation as Key Personnel.
-
-b.  At a minimum, a Project Manager and a Technical Lead must be
-    identified and designated as Key Personnel.
-
- *The Project Manager* will be a direct liaison to the Alaska product
- team. The Project Manager is responsible for the supervision and
- management of the Contractor’s personnel, technical assistance, and
- interface. Desired skills/experience for the Project Manager include:
-
- Experience in technical leadership.
-
- Ability to rapidly prioritize competing requirements.
-
- Ability to understand and simplify customer requirements.
-
- Ability to communicate end user feedback to technical and design
- leads.
-
- Strong communication skills.
-
- Proven knowledge of industry standards.
-
- The *Technical Lead* must have a full understanding of the technical
- approach discussed in the proposal / interview and is responsible for
- ensuring that the contractor follows the proposed approach.
+The *Technical Lead* must have a full understanding of the technical approach discussed in the proposal / interview and is responsible for ensuring that the contractor follows the proposed approach.
 
 ### <a name="3.06"></a>Sec. 3.06 Contract Term and Work Schedule
 
@@ -679,8 +679,7 @@ The contractor shall submit all deliverables to the Alaska product team.
 
 **Delivery Instructions**
 
-Code deliverables shall be submitted via Git PRs to the VSTS repository. A copy
-of any document deliverables shall be submitted to the Alaska product team.
+Code deliverables shall be submitted via Git PRs to the VSTS repository. A copy of any document deliverables shall be submitted to the Alaska product team.
 
 **Inspection and Acceptance of Services**
 
@@ -689,7 +688,7 @@ All periodic reports and deliverables shall be inspected, tested (where applicab
 Only the Alaska product team has the authority to
 inspect, accept, or reject all deliverables.
 
-Acceptance of services and deliverables will be based on the criteria laid out in the quality acceptance plan.
+Acceptance of services and deliverables will be based on the criteria laid out in the [Quality Assurance Plan](2-Quality-Assurance-Plan.md) (QAP).
 
 **System Documentation**
 
@@ -704,7 +703,7 @@ artifacts, and create new user stories based on each sprint.
 
 **Quality Assurance**
 
-The Contractor shall comply with the acceptable quality levels (AQL) in the attached [quality assurance plan](https://github.com/AlaskaDHSS/RFP-Search-Unification/blob/final-review/2-QAP.md) (QAP).
+The Contractor shall comply with the acceptable quality levels (AQL) in the attached [Quality Assurance Plan](2-Quality-Assurance-Plan.md) (QAP).
 
 ### <a name="3.08"></a>Sec. 3.08 Contract Type
 
@@ -788,9 +787,7 @@ Any change to the key personnel, as identified during project kick-off, must be 
 
 ### <a name="3.16"></a>Sec. 3.16 Inspection & Modification - Reimbursement for Unacceptable Deliverables
 
-The contractor is responsible for the completion of all work set out in the contract. All work is subject to inspection, evaluation, and
-approval by the project director. The [Quality Assurance Plan](https://github.com/AlaskaDHSS/RFP-Search-Unification/blob/final-review/2-QAP.md), attached
-separately, provides additional information regarding the deliverable
+The contractor is responsible for the completion of all work set out in the contract. All work is subject to inspection, evaluation, and approval by the project director. The [Quality Assurance Plan](2-Quality-Assurance-Plan.md), attached separately, provides additional information regarding the deliverable
 acceptance process.
 
 ### <a name="3.17"></a>Sec. 3.17 Contract Changes - Unanticipated Amendments
@@ -882,11 +879,11 @@ Proposals must include the complete name and address of offeror’s firm
 and the name, mailing address, and telephone number of the person the
 state should contact regarding the proposal.
 
-Proposals must confirm that the offeror will comply with all provisions in this RFP; and, if applicable, provide notice that the firm qualifies as an Alaskan bidder. Proposals must be signed by a company officer empowered to bind the company. An offeror's failure to include these items in the proposals may cause the proposal to be determined to be non-responsive and the proposal may be rejected. See [SECTION 1.08 Proposal Contents](#1.08) for more information.  Introduction is included as part of your 9-page limitation.
+Proposals must confirm that the offeror will comply with all provisions in this RFP; and, if applicable, provide notice that the firm qualifies as an Alaskan bidder. Proposals must be signed by a company officer empowered to bind the company. An offeror's failure to include these items in the proposals may cause the proposal to be determined to be non-responsive and the proposal may be rejected. See [SECTION 1.08 Proposal Contents](#1.08) for more information.  Introduction is included as part of your 7-page limitation.
 
 ### <a name="4.03"></a>Sec. 4.03 Technical Understanding And Approach
 
-Succinctly describe level of knowledge, technical expertise and overall understanding of the requirement as set forth in [SECTION 3 SCOPE OF WORK & CONTRACT INFORMATION](#3.01). This is also an opportunity to discuss, either in the written proposal or during the verbal presentation, any risks or opportunities associated with the Technology Services discussed in the [Information Technology Requirements](https://github.com/AlaskaDHSS/RFP-Search-Unification/blob/final-review/5-Attachment%20A%20-%20DHSS%20IT%20Requirements%20Agile%20Acquisition.md).  Technical understanding and approach description is included as part of your 9-page limitation.
+Succinctly describe level of knowledge, technical expertise and overall understanding of the requirement as set forth in [SECTION 3 SCOPE OF WORK & CONTRACT INFORMATION](#3.01). This is also an opportunity to discuss, either in the written proposal or during the verbal presentation, any risks or opportunities associated with the Technology Services discussed in the Information Technology Requirements.  Technical understanding and approach description is included as part of your 7-page limitation.
 
 ### <a name="4.04"></a>Sec. 4.04 Project Management Approach
 
@@ -898,21 +895,21 @@ ii. Risk Management - Discuss how the identification, classification, mitigation
 
 iii. Issue Management - Discuss how issues will be identified, addressed or escalated as needed.
 
-iv. Testing - Describe your philosophy on testing, and how you would work with the State product team to integrate into the shared devops and CI pipeline. Describe how you envision incorporating user testing, and how you would align this with the CI activities.
+iv. Testing - Describe your philosophy on testing, and how you would work with the State product team to integrate into the shared devops and Continuous Integration(CI) pipeline. Describe how you envision incorporating user testing, and how you would align this with the CI activities.
 
 v. Research - Describe an overview of your research process and how that will tie in with other delivery activities.
 
-Project Management Approach is included as part of your 9-page limitation.
+Project Management Approach is included as part of your 7-page limitation.
 
 ### <a name="4.05"></a>Sec. 4.05 Approach to User Interface and User Experience Design
 
 Proposals must contain information that describes how you will perform user experience and user interface design as a part of the overall user research. The proposal should also contain information about how this research will be translated into relevant user stories and ultimately into working software.
 
-Approach to User Interface and User Experience Design is included as part of your 9-page limitation.
+Approach to User Interface and User Experience Design is included as part of your 7-page limitation.
 
 ### <a name="4.06"></a>Sec. 4.06 Staffing Plan
 
-Provide a Staffing Plan that describes your understanding of the requirements and details the number of personnel by skill level/labor category needed to satisfy the objectives and requirements in [SECTION 3 SCOPE OF WORK & CONTRACT INFORMATION](#3.01). The Staffing plan is included as part of your 9-page limitation. Resumes and letters of intent are not included as part of your 9-page limitation.
+Provide a Staffing Plan that describes your understanding of the requirements and details the number of personnel by skill level/labor category needed to satisfy the objectives and requirements in [SECTION 3 SCOPE OF WORK & CONTRACT INFORMATION](#3.01). The Staffing plan is included as part of your 7-page limitation. Resumes and letters of intent are not included as part of your 7-page limitation.
 
 At a minimum, provide:
 
@@ -924,13 +921,13 @@ iii. A list of Key Personnel by name, title, contact information, proposed dutie
 
 ### <a name="4.07"></a>Sec. 4.07 Similar Experience and Qualifications
 
-The offeror must provide two examples of web-based platforms. While not required, we strongly prefer that at least one of these projects have been developed and released using open source principles and licensing. The examples provided must reflect aspects of data security, and should show aspects of strong user driven design in a web application. The project must have been delivered by either a) the offeror itself or, alternatively, b) a teaming partner that is proposed in response to this RFP, or, alternatively, c) any Key Personnel that is being proposed in response to this RFP. In the project summary, be sure to identify how the offeror’s team was involved in the development. The project(s) submitted for Similar Experience is included as part of your 9-page limitation, unless noted otherwise below.
+The offeror must provide two examples of web-based platforms. While not required, we strongly prefer that at least one of these projects have been developed and released using open source principles and licensing. The examples provided must reflect aspects of data security, and should show aspects of strong user driven design in a web application. The project must have been delivered by either a) the offeror itself or, alternatively, b) a teaming partner that is proposed in response to this RFP, or, alternatively, c) any Key Personnel that is being proposed in response to this RFP. In the project summary, be sure to identify how the offeror’s team was involved in the development. The project(s) submitted for Similar Experience is included as part of your 7-page limitation, unless noted otherwise below.
 
 At a minimum, provide:
 
 i.  Recent and similar technical scope is past experience with building usable, responsive, consumer facing website built within the past three (3) years.
 
-ii. The summary shall include links to the public Git repository that includes the source code that was developed and accepted for the project. Actual access to a publicly available Git repository is strongly encouraged over screenshots of private repositories. The summary should also include live links of the final product or current staging environment. If live links are not available, screenshots can be provided, along with a brief explanation as to why the project is no longer live. Note that screenshots will not be counted towards your 9-page limitation; please provide screenshots as attachments. The projects should be recent and similar to the size and technical scope of this requirement.
+ii. The summary shall include links to the public Git repository that includes the source code that was developed and accepted for the project. Actual access to a publicly available Git repository is strongly encouraged over screenshots of private repositories. The summary should also include live links of the final product or current staging environment. If live links are not available, screenshots can be provided, along with a brief explanation as to why the project is no longer live. Note that screenshots will not be counted towards your 7-page limitation; please provide screenshots as attachments. The projects should be recent and similar to the size and technical scope of this requirement.
 
 ### <a name="4.08"></a>Sec. 4.08 Verbal Presentation
 
