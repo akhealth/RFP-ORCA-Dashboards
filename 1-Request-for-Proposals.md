@@ -152,7 +152,7 @@ contingent upon legislative appropriation.
 
 ### <a name="1.03"></a>Sec. 1.03 Deadline for Receipt of Proposals
 
-Proposals must be received no later than [INSERT TIME] Alaska Standard Time on [INSERT DATE]. Faxed, emailed, and oral proposals are not acceptable.
+Proposals must be received no later than [INSERT TIME] Alaska Standard Time on [INSERT DATE]. Faxed and/or oral proposals are not acceptable.
 
 ### <a name="1.04"></a>Sec. 1.04 Minimum Responsiveness
 
@@ -192,14 +192,6 @@ time to respond. All questions and comments will be publicly
 available. Please subscribe to the repository if your firm would like
 updates about changes and comments. Questions or comments received
 after the required deadline may not be answered.
-
-Questions may also be submitted in writing to the Procurement Officer,
-who will post them as issues with the GitHub repository listed above.
-Is this necessary? Is there a reason for providing the option to
-submit questions in writing? Is this an privacy concern?
-
-Procurement Officer: Susan Jabal<br/>
-email: susan.jabal@alaska.gov
 
 ### <a name="1.07"></a>Sec. 1.07 Return Instructions
 
@@ -407,7 +399,7 @@ approval of the project director.
 
 The background for this project as a whole is detailed in the project README in the [DHSS primary GitHub Repo](https://github.com/AlaskaDHSS/ORCA-Modernization).
 
-In short, for this acquisition, OCS seeks modular procurement activities and agile development methodology to be used in the development of a secure system allowing users mobile access to OCS’s ORCA comprehensive data system. This piece will be the first one of a broader vision for modernization effort of the ORCA system.
+In short, for this acquisition, OCS seeks modular procurement activities and agile development methodology to be used in the development of a secure system allowing users mobile access to OCS’s ORCA comprehensive data system. This piece will be the first one of a broader vision for modernization of the ORCA system.
 
 **OBJECTIVES**
 
@@ -819,51 +811,7 @@ information. “Reasonable care” means compliance by the contractor with
 all applicable federal and state law, including the Social Security Act and HIPAA. The contractor must promptly notify the state in writing if it becomes aware of any storage, disclosure, loss, unauthorized access to or use of the confidential information.
 
 Confidential information, as used herein, means any data, files,
-software, information or materials (whether prepared by the state or its agents or advisors) in oral, electronic, tangible or intangible form and however stored, compiled or memorialized that is classified confidential as defined by State of Alaska classification and categorization guidelines provided by the state to the contractor or a contractor agent or otherwise made available to the contractor or a contractor agent in connection with this contract, or acquired, obtained or learned by the contractor or a contractor agent in the performance of this contract. Examples of confidential information include, but are not limited to: technology infrastructure, architecture, financial data, trade secrets, equipment specifications, user lists, passwords, research data, and technology data (infrastructure, architecture, operating systems, security tools, IP addresses, etc).
-
-If confidential information is requested to be disclosed by the
-contractor pursuant to a request received by a third party and such
-disclosure of the confidential information is required under applicable state or federal law, regulation, governmental or regulatory authority, the contractor may disclose the confidential information after providing the state with written notice of the requested disclosure (to the extent such notice to the state is permitted by applicable law) and giving the state opportunity to review the request. If the contractor receives no objection from the state, it may release the confidential information within 30 days. Notice of the requested disclosure of confidential information by the contractor must be provided to the state within a reasonable time after the contractor’s receipt of notice of the requested disclosure and, upon request of the state, shall seek to obtain legal protection from the release of the confidential information.
-
-The following information shall not be considered confidential
-information: information previously known to be public information when received from the other party; information freely available to the general public; information which now is or hereafter becomes publicly known by other than a breach of confidentiality hereof; or information which is disclosed by a party pursuant to subpoena or other legal process and which as a result becomes lawfully obtainable by the general public.
-
-### <a name="3.19"></a>Sec. 3.19 Insurance Requirements
-
-The successful offeror must provide proof of workers' compensation
-insurance prior to contract approval.
-
-The successful offeror must secure the insurance coverage required by
-the state. The coverage must be satisfactory to the Department of
-Administration Division of Risk Management. An offeror's failure to
-provide evidence of such insurance coverage is a material breach and
-grounds for withdrawal of the award or termination of the contract.
-
-Offerors must review form APPENDIX B1 / APPENDIX B2, included in the Standard Agreement Form in [SECTION 8 EXHIBITS](#8.4), for details on required coverage. No alteration of these requirements will be permitted without prior written approval from the Department of Administration, Division of Risk Management. Objections to any of the requirements in APPENDIX B1 / APPENDIX B2 must be set out in the offeror’s proposal.
-
-### <a name="3.20"></a>Sec. 3.20 Termination for Default
-
-If the project director determines that the contractor has refused to
-perform the work or has failed to perform the work with such diligence
-as to ensure its timely and accurate completion, the state may, by
-providing written notice to the contractor, terminate the contractor's
-right to proceed with part or all of the remaining work.
-
-This clause does not restrict the state's termination rights under the
-contract provisions of the Standard Agreement Form, attached in [SECTION 8 EXHIBITS](#8.4).
-
-### <a name="3.21"></a>Sec. 3.21 Data Rights and Ownership of Deliverables
-
-It is the State of Alaska's intent that any data or deliverable created as a result of the work performed under this contract be committed to the public domain.
-
-It is the intention of the Alaska product team to commit the following, but not limited to, items to the public domain: all data, documents, graphics and code created under this task order including but not limited to, plans, reports, schedules, schemas, metadata, architecture designs, and the like; new open source software created by the contractor and forks or branches of current open source software where the contractor has made a modification; new tooling, scripting configuration management, infrastructure as code, or any other final changes or edits to successfully deploy or operate the software.
-
-The contractor shall use open source technologies wherever possible. All licenses must be expressly listed in the deliverable. Regardless of license(s) used (e.g., MIT, GPL, Creative Commons 0) the license(s) shall be clearly listed in the documentation.
-
-If the contractor needs to use work that does not have an open source license, the contractor is required to request permission from the Alaska product team, in writing, before utilizing that work in any way in connection with the order. If approved, all licenses shall be clearly set forth in a conspicuous place when work is delivered to the Alaska product team.
-
-If an open source license provides implementation guidance, the contractor shall ensure compliance with that guidance. If implementation guidance is not available, the contractor shall attach or include the license within the work itself. Examples of this include code comments at the beginning of a file or contained in a license file within a software repository.
-
+software, information or materials (whether prepared by the state or its agents or advisors) in oral, electronic, tangible or intangible form and however stored, compiled or memorialized that is classified confidential as defined by State of Alaska classification and categorization guidelines provided by the state to the contractor or a contractor agent or otherwise made available to the contractor or a contractor agent in connection with this contract, or acquired, obtained or learned by the contractor or a contractor agent in the performance of this contract. Examples of confidential information include, but are not limited to: technology infrastructure, architecture, financial data, trade secrets, equipment specifications, user lists, passwords, research data, and technology data (infrastructure, architectur
 ## Section 4. PROPOSAL FORMAT AND CONTENT
 
 ### <a name="4.01"></a>Sec. 4.01 Proposal Format
@@ -895,7 +843,9 @@ ii. Risk Management - Discuss how the identification, classification, mitigation
 
 iii. Issue Management - Discuss how issues will be identified, addressed or escalated as needed.
 
-iv. Testing - Describe your philosophy on testing, and how you would work with the State product team to integrate into the shared devops and Continuous Integration(CI) pipeline. Describe how you envision incorporating user testing, and how you would align this with the CI activities.
+iv. Testing - Describe your philosophy on testing, and how you would work with the State product team to
+integrate into the shared devops and continuous integration (CI) pipeline. Describe how you envision incorporating user testing,
+and how you would align this with the CI activities.
 
 v. Research - Describe an overview of your research process and how that will tie in with other delivery activities.
 
