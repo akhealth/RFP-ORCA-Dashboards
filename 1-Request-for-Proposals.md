@@ -729,28 +729,28 @@ The location(s) the work is to be performed, completed and managed is at the dis
 Travel to Alaska is anticipated for the purposes of user research and
 stakeholder meetings. A separate line item shall be included for travel for each period and the estimated travel expenses are provided below for each period. Travel shall be billed and reimbursed in accordance with the State of Alaska's Approved Travel Guidelines (below). All travel must be pre-approved in writing by the Project Director. Travel shall not to be charged as other direct costs (ODC).
 
-### State of Alaska Approved Travel Guidelines
+**State of Alaska Approved Travel Guidelines**
 The State will cover costs associated with travel per the criteria listed below. Expenses above these criteria must be approved in advance by the Program Manager.
-### Air Travel
-Copies of receipts and boarding passes for flights must be 
+
+**Air Travel** - Copies of receipts and boarding passes for flights must be 
 submitted with the invoice. The State will reimburse for coach travel only. 
-### Hotel
-Copies of original hotel receipts at commercial facilities must be submitted 
+
+**Hotel** - Copies of original hotel receipts at commercial facilities must be submitted 
 with the invoice. Actual lodging expenses that exceed $250 room rate per night, 
 excluding taxes, must be approved in advance by the Program Manager.
-### Rental Car
-Copies of the rental car receipt and agreement must be submitted with 
+
+**Rental Car** - Copies of the rental car receipt and agreement must be submitted with 
 the invoice. Rental should be for a mid-size or less car (unless approved in advance) 
 and the rental period is to cover the business travel period only.
-### Ground Transportation
-Between the Contractor’s home and the airport, and 
+
+**Ground Transportation** - Between the Contractor’s home and the airport, and 
 the destination airport and hotel; via airport shuttle, courtesy van, or taxi service.
-### Per Diem
-The maximum amount for food and all other travel related incidentals in Alaska
+
+**Per Diem** - The maximum amount for food and all other travel related incidentals in Alaska
 is $60 per day, per person. For locations outside of Alaska, Federal CONUS rates will be utilized. 
 On the initial day of departure and final day of arrival, the daily rate will be prorated to 75%.
 
-Note: costs of parking violations will not be reimbursed.
+**Note:** Costs of parking violations will not be reimbursed.
 
 By signature on their proposal, the offeror certifies that all services provided under this contract by the contractor and all subcontractors shall be performed in the United States.
 
