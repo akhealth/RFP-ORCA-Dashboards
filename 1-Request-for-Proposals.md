@@ -827,11 +827,11 @@ Proposals must include the complete name and address of offeror’s firm
 and the name, mailing address, and telephone number of the person the
 state should contact regarding the proposal.
 
-Proposals must confirm that the offeror will comply with all provisions in this RFP; and, if applicable, provide notice that the firm qualifies as an Alaskan bidder. Proposals must be signed by a company officer empowered to bind the company. An offeror's failure to include these items in the proposals may cause the proposal to be determined to be non-responsive and the proposal may be rejected. See [SECTION 1.08 Proposal Contents](#1.08) for more information.  Introduction is included as part of your 7-page limitation.
+Proposals must confirm that the offeror will comply with all provisions in this RFP; and, if applicable, provide notice that the firm qualifies as an Alaskan bidder. Proposals must be signed by a company officer empowered to bind the company. An offeror's failure to include these items in the proposals may cause the proposal to be determined to be non-responsive and the proposal may be rejected. See [SECTION 1.08 Proposal Contents](#1.08) for more information.
 
 ### <a name="4.03"></a>Sec. 4.03 Technical Understanding And Approach
 
-Succinctly describe level of knowledge, technical expertise and overall understanding of the requirement as set forth in [SECTION 3 SCOPE OF WORK & CONTRACT INFORMATION](#3.01). This is also an opportunity to discuss, either in the written proposal or during the verbal presentation, any risks or opportunities associated with the Technology Services discussed in the Information Technology Requirements.  Technical understanding and approach description is included as part of your 7-page limitation.
+Succinctly describe your team's level of knowledge, technical expertise and overall understanding of the requirement as set forth in [SECTION 3 SCOPE OF WORK & CONTRACT INFORMATION](#3.01). This is also an opportunity to discuss, either in the written proposal or during the verbal presentation, any risks or opportunities associated with the Technology Services discussed in the Information Technology Requirements.
 
 ### <a name="4.04"></a>Sec. 4.04 Project Management Approach
 
@@ -849,17 +849,14 @@ and how you would align this with the CI activities.
 
 v. Research - Describe an overview of your research process and how that will tie in with other delivery activities.
 
-Project Management Approach is included as part of your 7-page limitation.
-
 ### <a name="4.05"></a>Sec. 4.05 Approach to User Interface and User Experience Design
 
-Proposals must contain information that describes how you will perform user experience and user interface design as a part of the overall user research. The proposal should also contain information about how this research will be translated into relevant user stories and ultimately into working software.
+OCS will not be providing expertise in this area, but rather we will rely on the successful vendor to lead this portion of the project deliverables. Proposals must contain information that describes how you will perform user experience and user interface design as a part of the overall user research. The proposal should also contain information about how this research will be translated into relevant user stories and ultimately into working software. 
 
-Approach to User Interface and User Experience Design is included as part of your 7-page limitation.
 
 ### <a name="4.06"></a>Sec. 4.06 Staffing Plan
 
-Provide a Staffing Plan that describes your understanding of the requirements and details the number of personnel by skill level/labor category needed to satisfy the objectives and requirements in [SECTION 3 SCOPE OF WORK & CONTRACT INFORMATION](#3.01). The Staffing plan is included as part of your 7-page limitation. Resumes and letters of intent are not included as part of your 7-page limitation.
+Provide a Staffing Plan that describes your understanding of the requirements and details the number of personnel by skill level/labor category needed to satisfy the objectives and requirements in [SECTION 3 SCOPE OF WORK & CONTRACT INFORMATION](#3.01). The Staffing plan is included as part of your page limitation, however, submission of resumes and letters of intent are not Please include resumes adn letters of intent as attachments.
 
 At a minimum, provide:
 
@@ -871,13 +868,13 @@ iii. A list of Key Personnel by name, title, contact information, proposed dutie
 
 ### <a name="4.07"></a>Sec. 4.07 Similar Experience and Qualifications
 
-The offeror must provide two examples of web-based platforms. While not required, we strongly prefer that at least one of these projects have been developed and released using open source principles and licensing. The examples provided must reflect aspects of data security, and should show aspects of strong user driven design in a web application. The project must have been delivered by either a) the offeror itself or, alternatively, b) a teaming partner that is proposed in response to this RFP, or, alternatively, c) any Key Personnel that is being proposed in response to this RFP. In the project summary, be sure to identify how the offeror’s team was involved in the development. The project(s) submitted for Similar Experience is included as part of your 7-page limitation, unless noted otherwise below.
+The offeror must provide project summaries for two examples of web-based platforms. While not required, we strongly prefer that at least one of these projects have been developed and released using open source principles and licensing. The examples provided must reflect aspects of data security, and should show aspects of strong user driven design in a web application. The project must have been delivered by either a) the offeror itself or, alternatively, b) a teaming partner that is proposed in response to this RFP, or, alternatively, c) any Key Personnel that is being proposed in response to this RFP. In each project summary, be sure to identify how the offeror’s team was involved in the development. 
 
-At a minimum, provide:
+At a minimum, the project summaries must provide:
 
-i.  Recent and similar technical scope is past experience with building usable, responsive, consumer facing website built within the past three (3) years.
+i. Evidence of meeting the Minimum Requirements as described in Section 1.04: Minimum Responsiveness.
 
-ii. The summary shall include links to the public Git repository that includes the source code that was developed and accepted for the project. Actual access to a publicly available Git repository is strongly encouraged over screenshots of private repositories. The summary should also include live links of the final product or current staging environment. If live links are not available, screenshots can be provided, along with a brief explanation as to why the project is no longer live. Note that screenshots will not be counted towards your 7-page limitation; please provide screenshots as attachments. The projects should be recent and similar to the size and technical scope of this requirement.
+ii. The summary shall include links to the public Git repository that includes the source code that was developed and accepted for the project. Actual access to a publicly available Git repository is strongly encouraged over screenshots of private repositories. The summary should also include live links of the final product or current staging environment. If live links are not available, screenshots can be provided, along with a brief explanation as to why the project is no longer live. Note that screenshots will not be counted towards your page limitation; please provide screenshots as attachments. The projects should be recent and similar to the size and technical scope of this requirement.
 
 ### <a name="4.08"></a>Sec. 4.08 Verbal Presentation
 
@@ -889,58 +886,30 @@ Responsive offerors will be invited to participate in a verbal presentation to b
 | 2  | Open Technical Session | 60 minutes |
 | 3  | Closing Remarks |  5 minutes |
 
-During the Open Technical Session, the Offeror will respond to the
-State’s questions related to the technical aspects of the Offeror’s
-proposal. Offerors will not be able to use or present slides, graphs,
-charts or any other written presentation materials, including handouts.
+### Introductions
+Introductions will be used solely for introducing team member's names adn roles, on both the Governemtn and teams. Time for introductions will not be allocated to business development purposes.
 
-Introductions will be used solely for introducing team member’s names
-and roles on both the Government and vendor teams. Time for
-introductions will not be allocated to business development purposes.
+### Open Technical Session
+During the Open Technical Session, the Offeror will respond to the State's questions related to teh technical aspects of the Offeror's proposal. Offerors will not be able to use or present slides, graphs, charts, handouts, or any other written presentation materials.
 
-Although the technical factors are identified in the RFP, the core
-questions are not listed there. Offerors must be prepared to answer
-questions about the technical aspects of their proposal. The goal of
-these presentations is to assess the technical abilities of the proposed
-Key Personnel and further elaborate on their proposed technical approach
-described in their written proposal to accomplish the objectives of this
-task.
+Although the technical factors are identified in the RFP, the core questions are not listed there. Offerors must be prepared to answer questions about the technical aspects of their proposal. The primary goal of these presentations is to assess the technical abilities of the proposed Key Personnel and further elaborate on their proposed technical approach described in their written proposal to accomplish the objectives of this task. The secondary goal is to assess the flow of communication between the State team and the proposed vendor team.
 
-This part of the verbal presentations will not exceed 60 minutes. The
-Procurement Officer will strictly enforce this time limit on all
-presentations. There will be no follow-up session for further questions
-after this part of the presentation.
+Participants may also be asked questions related to project management (section 4.04).
 
-#### Presentation date and time
+This part of the verbal presentations will not exceed 60 minutes. The Procurement Officer will strictly enforce this time
+limit on all presentations. There will be no follow-up session for further questions after this part of the presentation.
 
-The State will schedule the date and time of the verbal presentations
-with each Offeror after the solicitation closing date and receiving each
-Offeror’s quote submission. The State reserves the right to
-reschedule any Offeror’s verbal presentations date at the discretion of
-the contracting officer.
+### Presentation Date and Time
+The State will schedule the date and time of the verbal presentations with each Offeror after the solicitation closing date and receiving each Offeror’s quote submission. The State reserves the right to reschedule any Offeror’s verbal presentations
+date at the discretion of the contracting officer.
 
-#### Presentation location
+### Presentation Location
+Verbal Presentations will take place via video chat, though audio may be substituted as needed. The Government will coordinate and set up the meeting space accordingly (providing dial-in information or links using a tool such as Google Hangouts, Zoom or Appear.in).
 
-Verbal Presentations will take place via video chat, though audio may be
-substituted as needed. The Government will coordinate and set up the
-meeting space accordingly (providing dial-in information or links using
-a tool such as Google Hangouts, Zoom or Appear.in).
+### Presentation Participants
+The State of Alaska wants to hear from all staff that will have a direct role in completing the deliverables. As such, all Key Personnel identified in your Staffing Plan must participate in the verbal presentation. Otherwise, the Offeror will be considered non-responsive and excluded from further consideration. Offerors may include as many participants as are necessary.
 
-##### Presentation participants
-
-Proposed Key Personnel must participate in the verbal presentation.
-Otherwise, the Offeror will be considered non-responsive and excluded
-from further consideration.
-
-Offerors may include as many participants as are necessary. Offerors should note that the State will be asking technical questions during the verbal presentation. Participants will also be asked questions related to project management (section [4.04](#4.04)).
-
-All proposed Key Personnel currently employed by the Offeror or its
-teaming partners must attend the session - the State is most interested
-in hearing from staff who will have a direct role in completing the
-task.
-
-After the presentations, vendors must email the meeting organizers the
-names of everyone who attended.
+Following the presentations, vendors must email the meeting organizers the names of everyone who attended.
 
 ### <a name="4.09"></a>Sec. 4.09 Cost Proposal
 
@@ -970,7 +939,7 @@ source software development and continuous deployment methods.
 
 ### <a name="5.02"></a>Sec. 5.02 Project Management Approach (5%)
 
-The State will evaluate the offeror's approach to project coordination, risk management, issue management, User testing, and user research coordination.
+The State will evaluate the offeror's approach to project coordination, risk management, issue management, user testing, and user research coordination.
 
 ### <a name="5.03"></a>Sec. 5.03 Approach to User Interface and User Experience Design (5%)
 
