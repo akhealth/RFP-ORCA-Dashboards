@@ -8,7 +8,7 @@ RFP Number: 1800000XX
 
 Issue Date: TBD
 
-The Department of Health and Social Services, Office of Children’s Services, is soliciting proposals for a Contractor to continuously deliver iterations of a mobile tool that will enhance mobile access to  ORCA for targeted users of the system. Initially, the mobility efforts  will focus on initial assessment workers that need to access specific assets in the ORCA system.
+The Department of Health and Social Services, Office of Children’s Services, is soliciting proposals for a Contractor to continuously deliver iterations of a mobile tool that will enhance mobile access to  ORCA for targeted users of the system. Initially, the mobility efforts  will focus on initial assessment workers that need to access specific assets in the ORCA system. ok
 
 ------------------------------------------------------------------
 
@@ -727,7 +727,30 @@ federal taxes. All costs associated with the contract must be stated in U.S. cur
 The location(s) the work is to be performed, completed and managed is at the discretion of the contractor.
 
 Travel to Alaska is anticipated for the purposes of user research and
-stakeholder meetings. A separate line item shall be included for travel for each period and the estimated travel expenses are provided below for each period. Travel shall be billed and reimbursed in accordance with the Federal Travel Regulation. All travel must be pre-approved in writing by the Project Director. Travel shall not to be charged as other direct costs (ODC).
+stakeholder meetings. A separate line item shall be included for travel for each period and the estimated travel expenses are provided below for each period. Travel shall be billed and reimbursed in accordance with the State of Alaska's Approved Travel Guidelines (below). All travel must be pre-approved in writing by the Project Director. Travel shall not to be charged as other direct costs (ODC).
+
+**State of Alaska Approved Travel Guidelines**
+The State will cover costs associated with travel per the criteria listed below. Expenses above these criteria must be approved in advance by the Program Manager.
+
+**Air Travel** - Copies of receipts and boarding passes for flights must be 
+submitted with the invoice. The State will reimburse for coach travel only. 
+
+**Hotel** - Copies of original hotel receipts at commercial facilities must be submitted 
+with the invoice. Actual lodging expenses that exceed $250 room rate per night, 
+excluding taxes, must be approved in advance by the Program Manager.
+
+**Rental Car** - Copies of the rental car receipt and agreement must be submitted with 
+the invoice. Rental should be for a mid-size or less car (unless approved in advance) 
+and the rental period is to cover the business travel period only.
+
+**Ground Transportation** - Between the Contractor’s home and the airport, and 
+the destination airport and hotel; via airport shuttle, courtesy van, or taxi service.
+
+**Per Diem** - The maximum amount for food and all other travel related incidentals in Alaska
+is $60 per day, per person. For locations outside of Alaska, Federal CONUS rates will be utilized. 
+On the initial day of departure and final day of arrival, the daily rate will be prorated to 75%.
+
+**Note:** Costs of parking violations will not be reimbursed.
 
 By signature on their proposal, the offeror certifies that all services provided under this contract by the contractor and all subcontractors shall be performed in the United States.
 
@@ -871,7 +894,7 @@ iii. A list of Key Personnel by name, title, contact information, proposed dutie
 
 ### <a name="4.07"></a>Sec. 4.07 Similar Experience and Qualifications
 
-The offeror must provide two examples of web-based platforms. While not required, we strongly prefer that at least one of these projects have been developed and released using open source principles and licensing. The examples provided must reflect aspects of data security, and should show aspects of strong user driven design in a web application. The project must have been delivered by either a) the offeror itself or, alternatively, b) a teaming partner that is proposed in response to this RFP, or, alternatively, c) any Key Personnel that is being proposed in response to this RFP. In the project summary, be sure to identify how the offeror’s team was involved in the development. The project(s) submitted for Similar Experience is included as part of your 7-page limitation, unless noted otherwise below.
+The offeror must provide two examples of web-based platforms. While not required, we strongly prefer that at least one of these projects have been developed and released using open source principles and licensing. The examples provided must reflect aspects of data security, and should show aspects of strong user driven design in a web application. The project must have been delivered by either a) the offeror itself or, alternatively, b) a teaming partner that is proposed in response to this RFP, or, alternatively, c) any Key Personnel that is being proposed in response to this RFP. In the project summary, be sure to identify how the offeror’s team was involved in the development.
 
 At a minimum, provide:
 
@@ -895,7 +918,7 @@ proposal. Offerors will not be able to use or present slides, graphs,
 charts or any other written presentation materials, including handouts.
 
 Introductions will be used solely for introducing team member’s names
-and roles on both the Government and vendor teams. Time for
+and roles on both the State and vendor teams. Time for
 introductions will not be allocated to business development purposes.
 
 Although the technical factors are identified in the RFP, the core
@@ -961,41 +984,35 @@ An evaluation may not be based on discrimination due to the race, religion, colo
 
 **THE TOTAL NUMBER OF POINTS USED TO SCORE THIS PROPOSAL IS 1,000**
 
-### <a name="5.01"></a>Sec. 5.01 Technical Understanding And Approach (10%)
+### <a name="5.01"></a>Sec. 5.01 Technical Understanding And Approach (15% - 150 points)
 
 The State will evaluate the offeror’s technical approach: level of
 knowledge, technical expertise, and overall understanding of the
 requirement. The State will also evaluate the offeror’s skills with open
 source software development and continuous deployment methods.
 
-### <a name="5.02"></a>Sec. 5.02 Project Management Approach (5%)
+### <a name="5.02"></a>Sec. 5.02 Project Management Approach (10% - 100 points)
 
-The State will evaluate the offeror's approach to project coordination, risk management, issue management, User testing, and user research coordination.
+The State will evaluate the offeror's approach to project coordination, risk management, issue management, user testing, and user research coordination.
 
-### <a name="5.03"></a>Sec. 5.03 Approach to User Interface and User Experience Design (5%)
+### <a name="5.03"></a>Sec. 5.03 Approach to User Interface and User Experience Design (15% - 150 points)
 
 The State will evaluate the offeror's approach to user interface and user experience as they relate to the creation of user stories and delivery of working software.
 
-### <a name="5.04"></a>Sec. 5.04 Staffing Plan (10%)
+### <a name="5.04"></a>Sec. 5.04 Staffing Plan (15% - 150 points)
 
 The State will evaluate the offeror’s proposed staffing methodology
 and skill levels/labor categories as well as the availability and
 relevant work experience demonstrated by Key Personnel.
 
-### <a name="5.05"></a>Sec. 5.05 Similar Experience (10%)
+### <a name="5.05"></a>Sec. 5.05 Similar Experience (15% - 150 points)
 
 The State will evaluate the offeror’s experience in performing projects
 of similar scope and complexity. The State will also evaluate the
 offeror’s experience with open source software development,
 human-centered design, and continuous deployment methods.
 
-### <a name="5.06"></a>Sec. 5.06 Verbal Presentation (30%)
-
-The State will evaluate the offeror’s response to questions regarding
-the technical aspects of the proposal as discussed during the verbal
-presentation.
-
-### <a name="5.07"></a>Sec. 5.07 Contract Cost (20%)
+### <a name="5.06"></a>Sec. 5.06 Contract Cost (20% - 200 points)
 
 Overall, 20% of the total evaluation points will be assigned to cost. The cost amount
 used for evaluation may be affected by one or more of the preferences
@@ -1007,7 +1024,7 @@ The lowest cost proposal will receive the maximum number of points
 allocated to cost. The point allocations for cost on the other proposals
 will be determined through the method set out in [SECTION 6.14 Formula Used to Convert Cost to Points](#6.14).
 
-### <a name="5.08"></a>Sec. 5.08 Alaska Offeror Preference (10%)
+### <a name="5.08"></a>Sec. 5.08 Alaska Offeror Preference (10% - 100 points)
 
 If an offeror qualifies for the Alaska Bidder Preference, the offeror will receive an Alaska Offeror Preference. The preference will be 10% of the total available points. This amount will be added to the overall evaluation score of each Alaskan offeror.
 
@@ -1622,7 +1639,7 @@ Please provide your estimated cost for completion of all project roles and all r
 <tr><td>Materials, Travel, and all other non-personnel project costs (please itemize into categories)</td><td style="background-color: #999"></td><td style="background-color: #999"></td><td></td></tr>
 <tr><td>&nbsp;</td><td style="background-color: #999"></td><td style="background-color: #999"></td><td></td></tr>
 <tr><td>&nbsp;</td><td style="background-color: #999"></td><td style="background-color: #999"></td><td></td></tr>
-<tr><td>TOTAL PROJECT BUDGET (not to exceed $300,000)</td><td style="background-color: #999"></td><td style="background-color: #999"></td><td></td></tr>
+<tr><td>TOTAL PROJECT BUDGET (not to exceed $450,000)</td><td style="background-color: #999"></td><td style="background-color: #999"></td><td></td></tr>
 </tbody>
 </table>
 
@@ -1755,65 +1772,55 @@ RFP Number: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 THE TOTAL NUMBER OF POINTS USED TO SCORE THIS PROPOSAL IS 1,000
 
-**5.01 Technical Understanding and Approach—10 Percent**
+**5.01 Technical Understanding and Approach—15 Percent**
 
-**Maximum Point Value for this Section - 100 Points**
+**Maximum Point Value for this Section - 150 Points**
 
-**1,000 Points x 10 Percent = 100 Points**
+**1,000 Points x 15 Percent = 150 Points**
 
 NOTES:
 
 **EVALUATOR'S POINT TOTAL FOR 5.01: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-**5.02 Project Management Aproach—5 Percent**
+**5.02 Project Management Aproach—10 Percent**
 
-**Maximum Point Value for this Section - 50 Points**
+**Maximum Point Value for this Section - 100 Points**
 
-**1,000 Points x 5 Percent = 50 Points**
+**1,000 Points x 10 Percent = 100 Points**
 
 NOTES:
 
 **EVALUATOR'S POINT TOTAL FOR 5.02: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-**5.03 Approach to User Interface and User Experience Design—5 Percent**
+**5.03 Approach to User Interface and User Experience Design—15 Percent**
 
-**Maximum Point Value for this Section - 50 Points**
+**Maximum Point Value for this Section - 150 Points**
 
-**1,000 Points x 5 Percent = 50 Points**
+**1,000 Points x 15 Percent = 150 Points**
 
 NOTES:
 
 **EVALUATOR'S POINT TOTAL FOR 5.03: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-**5.04 Staffing Plan—10 Percent**
+**5.04 Staffing Plan—15 Percent**
 
-**Maximum Point Value for this Section - 100 Points**
+**Maximum Point Value for this Section - 150 Points**
 
-**1,000 Points x 10 Percent = 100 Points**
+**1,000 Points x 15 Percent = 150 Points**
 
 NOTES:
 
 **EVALUATOR'S POINT TOTAL FOR 5.04: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-**5.05 Similar Experience—10 Percent**
+**5.05 Similar Experience—15 Percent**
 
-**Maximum Point Value for this Section - 100 Points**
+**Maximum Point Value for this Section - 150 Points**
 
-**1,000 Points x 10 Percent = 100 Points**
+**1,000 Points x 15 Percent = 150 Points**
 
 NOTES:
 
 **EVALUATOR'S POINT TOTAL FOR 5.05: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-**5.06 Verbal Presentation—30 Percent**
-
-**Maximum Point Value for this Section - 300 Points**
-
-**1,000 Points x 30 Percent = 300 Points**
-
-NOTES:
-
-**EVALUATOR'S POINT TOTAL FOR 5.06: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **EVALUATOR'S COMBINED POINT TOTAL FOR ALL EVALUATED SECTIONS:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
