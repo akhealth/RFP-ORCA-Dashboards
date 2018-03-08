@@ -1639,7 +1639,7 @@ Please provide your estimated cost for completion of all project roles and all r
 <tr><td>Materials, Travel, and all other non-personnel project costs (please itemize into categories)</td><td style="background-color: #999"></td><td style="background-color: #999"></td><td></td></tr>
 <tr><td>&nbsp;</td><td style="background-color: #999"></td><td style="background-color: #999"></td><td></td></tr>
 <tr><td>&nbsp;</td><td style="background-color: #999"></td><td style="background-color: #999"></td><td></td></tr>
-<tr><td>TOTAL PROJECT BUDGET (not to exceed $300,000)</td><td style="background-color: #999"></td><td style="background-color: #999"></td><td></td></tr>
+<tr><td>TOTAL PROJECT BUDGET (not to exceed $450,000)</td><td style="background-color: #999"></td><td style="background-color: #999"></td><td></td></tr>
 </tbody>
 </table>
 
@@ -1806,7 +1806,7 @@ NOTES:
 
 **Maximum Point Value for this Section - 150 Points**
 
-**1,000 Points x 10 Percent = 150 Points**
+**1,000 Points x 15 Percent = 150 Points**
 
 NOTES:
 
