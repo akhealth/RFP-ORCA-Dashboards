@@ -727,7 +727,30 @@ federal taxes. All costs associated with the contract must be stated in U.S. cur
 The location(s) the work is to be performed, completed and managed is at the discretion of the contractor.
 
 Travel to Alaska is anticipated for the purposes of user research and
-stakeholder meetings. A separate line item shall be included for travel for each period and the estimated travel expenses are provided below for each period. Travel shall be billed and reimbursed in accordance with the Federal Travel Regulation. All travel must be pre-approved in writing by the Project Director. Travel shall not to be charged as other direct costs (ODC).
+stakeholder meetings. A separate line item shall be included for travel for each period and the estimated travel expenses are provided below for each period. Travel shall be billed and reimbursed in accordance with the State of Alaska's Approved Travel Guidelines (below). All travel must be pre-approved in writing by the Project Director. Travel shall not to be charged as other direct costs (ODC).
+
+### State of Alaska Approved Travel Guidelines
+The State will cover costs associated with travel per the criteria listed below. Expenses above these criteria must be approved in advance by the Program Manager.
+### Air Travel
+Copies of receipts and boarding passes for flights must be 
+submitted with the invoice. The State will reimburse for coach travel only. 
+### Hotel
+Copies of original hotel receipts at commercial facilities must be submitted 
+with the invoice. Actual lodging expenses that exceed $250 room rate per night, 
+excluding taxes, must be approved in advance by the Program Manager.
+### Rental Car
+Copies of the rental car receipt and agreement must be submitted with 
+the invoice. Rental should be for a mid-size or less car (unless approved in advance) 
+and the rental period is to cover the business travel period only.
+### Ground Transportation
+Between the Contractor’s home and the airport, and 
+the destination airport and hotel; via airport shuttle, courtesy van, or taxi service.
+### Per Diem
+The maximum amount for food and all other travel related incidentals in Alaska
+is $60 per day, per person. For locations outside of Alaska, Federal CONUS rates will be utilized. 
+On the initial day of departure and final day of arrival, the daily rate will be prorated to 75%.
+
+Note: costs of parking violations will not be reimbursed.
 
 By signature on their proposal, the offeror certifies that all services provided under this contract by the contractor and all subcontractors shall be performed in the United States.
 
@@ -871,7 +894,7 @@ iii. A list of Key Personnel by name, title, contact information, proposed dutie
 
 ### <a name="4.07"></a>Sec. 4.07 Similar Experience and Qualifications
 
-The offeror must provide two examples of web-based platforms. While not required, we strongly prefer that at least one of these projects have been developed and released using open source principles and licensing. The examples provided must reflect aspects of data security, and should show aspects of strong user driven design in a web application. The project must have been delivered by either a) the offeror itself or, alternatively, b) a teaming partner that is proposed in response to this RFP, or, alternatively, c) any Key Personnel that is being proposed in response to this RFP. In the project summary, be sure to identify how the offeror’s team was involved in the development. The project(s) submitted for Similar Experience is included as part of your 7-page limitation, unless noted otherwise below.
+The offeror must provide two examples of web-based platforms. While not required, we strongly prefer that at least one of these projects have been developed and released using open source principles and licensing. The examples provided must reflect aspects of data security, and should show aspects of strong user driven design in a web application. The project must have been delivered by either a) the offeror itself or, alternatively, b) a teaming partner that is proposed in response to this RFP, or, alternatively, c) any Key Personnel that is being proposed in response to this RFP. In the project summary, be sure to identify how the offeror’s team was involved in the development.
 
 At a minimum, provide:
 
@@ -895,7 +918,7 @@ proposal. Offerors will not be able to use or present slides, graphs,
 charts or any other written presentation materials, including handouts.
 
 Introductions will be used solely for introducing team member’s names
-and roles on both the Government and vendor teams. Time for
+and roles on both the State and vendor teams. Time for
 introductions will not be allocated to business development purposes.
 
 Although the technical factors are identified in the RFP, the core
