@@ -591,9 +591,7 @@ The State of Alaska will provide documentation on how to access data sources, de
     during transition period, appropriate close-out of outstanding
     technical and related work.
 
-3.  Deliver a final report that shall include list of sprint tasks
-    completed, documentation, and link to code repository. Should the
-    Contract be terminated prior to the end of the period of
+3.  Should the Contract be terminated prior to the end of the period of
     performance, the Contractor shall transfer all project materials to
     the COR within two weeks of the COR’s request.
 
