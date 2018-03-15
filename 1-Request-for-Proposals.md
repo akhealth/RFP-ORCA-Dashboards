@@ -454,25 +454,25 @@ The State of Alaska will provide documentation on how to access data sources, de
     most useful.
 
 2.  Contractor shall conduct usability testing and gather feedback from
-    DPA workers on an ongoing basis as solutions are explored and
+    OCS workers on an ongoing basis as solutions are explored and
     software is delivered, and incorporate feedback.
 
-3.  Contractor shall ensure that DPA field staff can search for needed
+3.  Contractor shall ensure that OCS field staff can search for needed
     information using a variety of search inputs, individually and in
     combination.
 
-4.  Contractor shall ensure that DPA field staff can get a comprehensive
+4.  Contractor shall ensure that OCS field staff can get a comprehensive
     view across systems (EIS, ARIES) of relevant and useful data in a
     single search result.
 
-5.  Contractor shall provide DPA field staff with the ability to refine
+5.  Contractor shall provide OCS field staff with the ability to refine
     search results by filtering.
 
-6.  Contractor shall ensure that the search results help DPA field staff
+6.  Contractor shall ensure that the search results help OCS field staff
     reliably identify potential unworked applications for the same
     family or individual.
 
-7.  Contractor shall ensure that DPA field staff can easily get to the
+7.  Contractor shall ensure that OCS field staff can easily get to the
     search tool from within the existing ARIES system, and get to where
     they need to go from search result using Single Sign On (SSO) or
     current authentication scheme.
@@ -584,7 +584,7 @@ The State of Alaska will provide documentation on how to access data sources, de
 2.  During the transition to the State of Alaska and/or a new
     contractor, the Contractor shall perform all necessary transition
     activities, including, but not limited to, continued full services
-    to DPA; participation, at discretion of Alaska product team, in
+    to OCS; participation, at discretion of Alaska product team, in
     meetings with the State of Alaska or new contractor to effect a
     smooth transition and provide detailed information on the operation
     of all deliverables; training of new personnel (contractor or State)
