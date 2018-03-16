@@ -669,7 +669,7 @@ The contractor shall submit all deliverables to the Alaska product team.
 
 **Delivery Instructions**
 
-Code deliverables shall be submitted via Git PRs to the VSTS repository. A copy of any document deliverables shall be submitted to the Alaska product team.
+Code deliverables shall be submitted via Git PRs to a state designated code respository. A copy of any document deliverables shall be submitted to the Alaska product team.
 
 **Inspection and Acceptance of Services**
 
