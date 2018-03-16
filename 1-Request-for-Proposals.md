@@ -548,12 +548,12 @@ The State of Alaska will provide documentation on how to access data sources, de
 -   Links to relevant Github branches, pull requests, and/or commits
      Screenshots of any available visualization (as appropriate)
 
--   Screenshot, links, or other documentation from the contractor’s
+-   If applicable, screenshot, links, or other documentation from the contractor’s
      project management system reflecting completed features, including
      number and percentage of completed sprint tasks (e.g. percentage
      of tasks completed)
 
--   Ongoing access to the contractor’s project management tool to view
+-   If applicable, ongoing access to the contractor’s project management tool to view
      development status
 
  **Daily Operations**
