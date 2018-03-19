@@ -459,9 +459,9 @@ The State of Alaska will provide documentation on how to access data sources, de
 
 3.  Contractor shall ensure that OCS staff can log in from a DHSS approved mobile device
 
-4.  Contractor shall ensure that OCS staff can view a personalized mobile dashboard and view protective services report inforamtion, and that protective services report inforamtion can be viewed when staff are offline, and that such information will be syncornized when connectivity is restored.
+4.  Contractor shall ensure that OCS staff can view a personalized mobile dashboard and view protective services report inforamtion, and that protective services report inforamtion can be viewed when staff are offline, and that such information will be synchronized when connectivity is restored.
 
-5.  Contractor shall ensure that OCS staff can create new activity notes while connected through a DHSS approved mobile device, and that activitiy notes can be created when staff are offline, and that notes will be syncornized when connectivity is restored.
+5.  Contractor shall ensure that OCS staff can create new activity notes while connected through a DHSS approved mobile device, and that activitiy notes can be created when staff are offline, and that notes will be synchronized when connectivity is restored.
 
 6.  Contractor shall continuously deliver working software for use in the Alaska production environment.
 
