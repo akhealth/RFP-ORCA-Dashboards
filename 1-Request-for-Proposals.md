@@ -463,8 +463,7 @@ The State of Alaska will provide documentation on how to access data sources, de
 
 5.  Contractor shall ensure that OCS staff can create new activity notes while connected through a DHSS approved mobile device, and that activitiy notes can be created when staff are offline, and that notes will be syncornized when connectivity is restored.
 
-6.  Contractor shall continuously deliver working software for use in
-    the Alaska production environment.
+6.  Contractor shall continuously deliver working software for use in the Alaska production environment.
 
 **Additional requirements:**
 
@@ -570,16 +569,14 @@ The State of Alaska will provide documentation on how to access data sources, de
 2.  During the transition to the State of Alaska and/or a new
     contractor, the Contractor shall perform all necessary transition
     activities, including, but not limited to, continued full services
-    to DPA; participation, at discretion of Alaska product team, in
+    to OCS; participation, at discretion of Alaska product team, in
     meetings with the State of Alaska or new contractor to effect a
     smooth transition and provide detailed information on the operation
     of all deliverables; training of new personnel (contractor or State)
     during transition period, appropriate close-out of outstanding
     technical and related work.
 
-3.  Deliver a final report that shall include list of sprint tasks
-    completed, documentation, and link to code repository. Should the
-    Contract be terminated prior to the end of the period of
+3.  Should the Contract be terminated prior to the end of the period of
     performance, the Contractor shall transfer all project materials to
     the COR within two weeks of the COR’s request.
 
@@ -657,7 +654,7 @@ The contractor shall submit all deliverables to the Alaska product team.
 
 **Delivery Instructions**
 
-Code deliverables shall be submitted via Git PRs to the VSTS repository. A copy of any document deliverables shall be submitted to the Alaska product team.
+Code deliverables shall be submitted via Git PRs to a state designated code respository. A copy of any document deliverables shall be submitted to the Alaska product team.
 
 **Inspection and Acceptance of Services**
 
