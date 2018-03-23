@@ -442,7 +442,7 @@ The draft QAP is provided in a [separate file in this repository](2-Quality-Assu
 
 The State of Alaska, Office of Children’s Services (OCS) requires agile developer services to deliver iterations of a secure system allowing mobile access to the states comprehensive data system, the Online Resource for the Children of Alaska (ORCA). The current objectives of the mobility piece are identified above in Section 2.01: Background Information.
 
-The State of Alaska will provide documentation on how to access data sources, describe existing authentication systems, and discuss how to deploy work to a staging environment This documentation is intended to be help interested vendors further understand the limits of their responsibility within the broader scope of ORCA.
+The State of Alaska [will provide documentation on how to access data sources](https://github.com/18F/RFP-ORCA-Mobility/blob/master/5-Attachment%20A%20-%20DHSS%20IT%20Requirements%20Agile%20Acquisition.md#information-exchange-architecture), describe existing authentication systems, and discuss how to deploy work to a staging environment This documentation is intended to be help interested vendors further understand the limits of their responsibility within the broader scope of ORCA.
 
 ### <a name="3.02"></a>Sec. 3.02 Requirements
 
