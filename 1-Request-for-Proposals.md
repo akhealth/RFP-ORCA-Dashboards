@@ -397,9 +397,11 @@ approval of the project director.
 
 **BACKGROUND**
 
-The background for this project as a whole is detailed in the project README in the [DHSS primary GitHub Repo](https://github.com/AlaskaDHSS/ORCA-Modernization).
+At the request of the State of Alaska, the [18F Acquisition Team](https://18f.gsa.gov/) - a cross-functional team of technology procurement professionals housed within the General Services Administration's [Technology Transformation Service](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services) - is assisting OCS in the development of a modular procurement strategy. 18F is acting in an advisory capacity, and will be assisting OCS with various aspects of it's modernization efforts.
 
-In short, for this acquisition, OCS seeks modular procurement activities and agile development methodology to be used in the development of a secure system allowing users mobile access to OCS’s ORCA comprehensive data system. This piece will be the first one of a broader vision for modernization of the ORCA system.
+Additional details on these efrorts can be found in the project README in the [DHSS primary GitHub Repo](https://github.com/AlaskaDHSS/ORCA-Modernization).
+
+For this acquisition, OCS seeks modular procurement activities and agile development methodology to be used in the development of a secure system allowing users mobile access to OCS’s ORCA comprehensive data system. This acquisition will be the first of several to support of a broader vision for modernization of the ORCA system.
 
 **OBJECTIVES**
 
