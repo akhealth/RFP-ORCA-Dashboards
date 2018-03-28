@@ -200,7 +200,7 @@ after the required deadline may not be answered.
 The preferred method of response submission to this solicitation is via
 email, sent to the following address:
 
- [hss.fms.contracts.invoicing@alaska.gov](mailto:hss.fms.contracts.invoicing@alaska.gov)
+ [PLACEHOLDER - NEW SUBMISSION EMAIL ADDRESS PENDING]
 
 The email submission must contain the RFP number in the subject line. In
 the body of the email, please indicate the Procurement Officer’s name,
@@ -359,17 +359,17 @@ rest of the schedule may be shifted by the same number of days.
 
 -    Issue RFP on [UPDATE DATE],
 
--    Deadline for receipt of questions by [UPDATE DATE],
+-    Deadline for receipt of questions by [UPDATE DATE  +11 Days],
 
--    Deadline for receipt of proposals on [UPDATE DATE],
+-    Deadline for receipt of proposals on [UPDATE DATE   +21 Days],
 
--    Interviews conducted with qualifying offerors on [UPDATE DATE],
+-    Interviews conducted with qualifying offerors on [UPDATE DATE   +5 weeks],
 
--    Proposal Evaluation Committee complete evaluation by [UPDATE DATE],
+-    Proposal Evaluation Committee complete evaluation by [UPDATE DATE   +6 weeks],
 
--    State of Alaska issues Notice of Intent to Award a contract on [UPDATE DATE],
+-    State of Alaska issues Notice of Intent to Award a contract on [UPDATE DATE   +6 weeks],
 
--    State of Alaska issues contract on [UPDATE DATE].
+-    State of Alaska issues contract on [UPDATE DATE   +8 weeks].
 
 This RFP does not, by itself, obligate the state. The state's obligation
 will commence when the contract is approved by the Commissioner of the
