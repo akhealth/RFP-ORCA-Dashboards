@@ -1772,55 +1772,55 @@ RFP Number: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 THE TOTAL NUMBER OF POINTS USED TO SCORE THIS PROPOSAL IS 1,000
 
-**5.01 Technical Understanding and Approach—15 Percent**
-
-**Maximum Point Value for this Section - 150 Points**
-
-**1,000 Points x 15 Percent = 150 Points**
+**5.01 Technical Understanding and Approach — 150 points (15%)**
 
 NOTES:
+
+
+
 
 **EVALUATOR'S POINT TOTAL FOR 5.01: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-**5.02 Project Management Aproach—10 Percent**
 
-**Maximum Point Value for this Section - 100 Points**
-
-**1,000 Points x 10 Percent = 100 Points**
+**5.02 Project Management Aproach — 100 points (10%)**
 
 NOTES:
+
+
+
 
 **EVALUATOR'S POINT TOTAL FOR 5.02: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-**5.03 Approach to User Interface and User Experience Design—15 Percent**
 
-**Maximum Point Value for this Section - 150 Points**
-
-**1,000 Points x 15 Percent = 150 Points**
+**5.03 Approach to User Interface and User Experience Design - 150 points (15%)**
 
 NOTES:
+
+
+
 
 **EVALUATOR'S POINT TOTAL FOR 5.03: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-**5.04 Staffing Plan—15 Percent**
 
-**Maximum Point Value for this Section - 150 Points**
-
-**1,000 Points x 15 Percent = 150 Points**
+**5.04 Staffing Plan - 150 points (15%)**
 
 NOTES:
+
+
+
 
 **EVALUATOR'S POINT TOTAL FOR 5.04: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-**5.05 Similar Experience—15 Percent**
 
-**Maximum Point Value for this Section - 150 Points**
-
-**1,000 Points x 15 Percent = 150 Points**
+**5.05 Similar Experience - 150 points (15%)**
 
 NOTES:
 
+
+
+
 **EVALUATOR'S POINT TOTAL FOR 5.05: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
 
 **EVALUATOR'S COMBINED POINT TOTAL FOR ALL EVALUATED SECTIONS:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
