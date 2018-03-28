@@ -1007,7 +1007,7 @@ relevant work experience demonstrated by Key Personnel.
 
 The State will evaluate the offeror’s experience in performing projects
 of similar scope and complexity. The State will also evaluate the
-offeror’s experience with open source software development,
+offeror’s experience with open source software development, progressive web applications,
 human-centered design, and continuous deployment methods.
 
 ### <a name="5.06"></a>Sec. 5.06 Contract Cost (20% - 200 points)
