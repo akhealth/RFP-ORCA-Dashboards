@@ -459,28 +459,13 @@ The State of Alaska [will provide documentation on how to access data sources](h
     OCS workers on an ongoing basis as solutions are explored and
     software is delivered, and incorporate feedback.
 
-3.  Contractor shall ensure that OCS field staff can search for needed
-    information using a variety of search inputs, individually and in
-    combination.
+3.  Contractor shall ensure that OCS staff can log in from a DHSS approved mobile device
 
-4.  Contractor shall ensure that OCS field staff can get a comprehensive
-    view across systems (EIS, ARIES) of relevant and useful data in a
-    single search result.
+4.  Contractor shall ensure that OCS staff can view a personalized mobile dashboard and view protective services report inforamtion, and that protective services report inforamtion can be viewed when staff are offline, and that such information will be synchronized when connectivity is restored.
 
-5.  Contractor shall provide OCS field staff with the ability to refine
-    search results by filtering.
+5.  Contractor shall ensure that OCS staff can create new activity notes while connected through a DHSS approved mobile device, and that activitiy notes can be created when staff are offline, and that notes will be synchronized when connectivity is restored.
 
-6.  Contractor shall ensure that the search results help OCS field staff
-    reliably identify potential unworked applications for the same
-    family or individual.
-
-7.  Contractor shall ensure that OCS field staff can easily get to the
-    search tool from within the existing ARIES system, and get to where
-    they need to go from search result using Single Sign On (SSO) or
-    current authentication scheme.
-
-8.  Contractor shall continuously deliver working software for use in
-    the Alaska production environment.
+6.  Contractor shall continuously deliver working software for use in the Alaska production environment.
 
 **Additional requirements:**
 
