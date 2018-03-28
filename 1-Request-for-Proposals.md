@@ -431,7 +431,7 @@ The above priorities are subject to change as the project moves forward and addi
 identified. OCS expects the successful vendor will help to identify additional and beneficial considerations,
 and be flexible and able to easily adapt accordingly.
 
-**QUALITY ASSURANCE PAN (QAP)**
+**QUALITY ASSURANCE PLAN (QAP)**
 
 A Quality Assurance Plan (QAP) has been developed to evaluate the successful contractor’s actions while implementing the Scope of Work. The QAP is designed to provide an effective method of monitoring contractor performance for each listed objective on the Performance Requirements Matrix. It also provides a systematic method to evaluate the services
 the contractor is required to furnish.
