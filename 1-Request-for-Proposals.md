@@ -879,11 +879,11 @@ iii. A list of Key Personnel by name, title, contact information, proposed dutie
 
 ### <a name="4.07"></a>Sec. 4.07 Similar Experience and Qualifications
 
-The offeror must provide two examples of web-based platforms. While not required, we strongly prefer that at least one of these projects have been developed and released using open source principles and licensing. The examples provided must reflect aspects of data security, and should show aspects of strong user driven design in a web application. The project must have been delivered by either a) the offeror itself or, alternatively, b) a teaming partner that is proposed in response to this RFP, or, alternatively, c) any Key Personnel that is being proposed in response to this RFP. In the project summary, be sure to identify how the offeror’s team was involved in the development.
+The offeror must provide two examples of web-based platforms. While not required, we strongly prefer that at least one of these projects have been developed and released using open source principles and licensing, and that at least one of these projects incorporate one or more elements of progressive web apps (e.g., mobile-first design, service workers, Web Storage, IndexedDB, offline functionality, push notifications, and app shell-based architecture). The examples provided must reflect aspects of data security, and should show aspects of strong user-driven design in a web application. The project must have been delivered by either a) the offeror itself or, alternatively, b) a teaming partner that is proposed in response to this RFP, or, alternatively, c) any Key Personnel that is being proposed in response to this RFP. In the project summary, be sure to identify how the offeror’s team was involved in the development.
 
 At a minimum, provide:
 
-i.  Recent and similar technical scope is past experience with building usable, responsive, consumer facing website built within the past three (3) years.
+i. Examples of experience building responsive web applications within the past three (3) years.
 
 ii. The summary shall include links to the public Git repository that includes the source code that was developed and accepted for the project. Actual access to a publicly available Git repository is strongly encouraged over screenshots of private repositories. The summary should also include live links of the final product or current staging environment. If live links are not available, screenshots can be provided, along with a brief explanation as to why the project is no longer live. Note that screenshots will not be counted towards your 7-page limitation; please provide screenshots as attachments. The projects should be recent and similar to the size and technical scope of this requirement.
 
@@ -994,7 +994,7 @@ relevant work experience demonstrated by Key Personnel.
 
 The State will evaluate the offeror’s experience in performing projects
 of similar scope and complexity. The State will also evaluate the
-offeror’s experience with open source software development,
+offeror’s experience with open source software development, progressive web applications,
 human-centered design, and continuous deployment methods.
 
 ### <a name="5.06"></a>Sec. 5.06 Contract Cost (20% - 200 points)
