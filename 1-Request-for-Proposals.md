@@ -825,7 +825,7 @@ software, information or materials (whether prepared by the state or its agents 
 ### <a name="4.01"></a>Sec. 4.01 Proposal Format
 
 The state discourages overly lengthy and costly proposals, with
-proposals of seven (7) or fewer pages encouraged. In order for the state
+proposals of ten (10) or fewer pages encouraged. In order for the state
 to evaluate proposals fairly and completely, offerors must follow the
 format set out in this RFP and provide all information requested.
 
@@ -835,11 +835,11 @@ Proposals must include the complete name and address of offeror’s firm
 and the name, mailing address, and telephone number of the person the
 state should contact regarding the proposal.
 
-Proposals must confirm that the offeror will comply with all provisions in this RFP; and, if applicable, provide notice that the firm qualifies as an Alaskan bidder. Proposals must be signed by a company officer empowered to bind the company. An offeror's failure to include these items in the proposals may cause the proposal to be determined to be non-responsive and the proposal may be rejected. See [SECTION 1.08 Proposal Contents](#1.08) for more information.  Introduction is included as part of your 7-page limitation.
+Proposals must confirm that the offeror will comply with all provisions in this RFP; and, if applicable, provide notice that the firm qualifies as an Alaskan bidder. Proposals must be signed by a company officer empowered to bind the company. An offeror's failure to include these items in the proposals may cause the proposal to be determined to be non-responsive and the proposal may be rejected. See [SECTION 1.08 Proposal Contents](#1.08) for more information.  Introduction is included as part of your 10-page limitation.
 
 ### <a name="4.03"></a>Sec. 4.03 Technical Understanding And Approach
 
-Succinctly describe level of knowledge, technical expertise and overall understanding of the requirement as set forth in [SECTION 3 SCOPE OF WORK & CONTRACT INFORMATION](#3.01). This is also an opportunity to discuss, either in the written proposal or during the verbal presentation, any risks or opportunities associated with the Technology Services discussed in the Information Technology Requirements.  Technical understanding and approach description is included as part of your 7-page limitation.
+Succinctly describe level of knowledge, technical expertise and overall understanding of the requirement as set forth in [SECTION 3 SCOPE OF WORK & CONTRACT INFORMATION](#3.01). This is also an opportunity to discuss, either in the written proposal or during the verbal presentation, any risks or opportunities associated with the Technology Services discussed in the Information Technology Requirements.  Technical understanding and approach description is included as part of your 10-page limitation.
 
 ### <a name="4.04"></a>Sec. 4.04 Project Management Approach
 
@@ -857,17 +857,17 @@ and how you would align this with the CI activities.
 
 v. Research - Describe an overview of your research process and how that will tie in with other delivery activities.
 
-Project Management Approach is included as part of your 7-page limitation.
+Project Management Approach is included as part of your 10-page limitation.
 
 ### <a name="4.05"></a>Sec. 4.05 Approach to User Interface and User Experience Design
 
 Proposals must contain information that describes how you will perform user experience and user interface design as a part of the overall user research. The proposal should also contain information about how this research will be translated into relevant user stories and ultimately into working software.
 
-Approach to User Interface and User Experience Design is included as part of your 7-page limitation.
+Approach to User Interface and User Experience Design is included as part of your 10-page limitation.
 
 ### <a name="4.06"></a>Sec. 4.06 Staffing Plan
 
-Provide a Staffing Plan that describes your understanding of the requirements and details the number of personnel by skill level/labor category needed to satisfy the objectives and requirements in [SECTION 3 SCOPE OF WORK & CONTRACT INFORMATION](#3.01). The Staffing plan is included as part of your 7-page limitation. Resumes and letters of intent are not included as part of your 7-page limitation.
+Provide a Staffing Plan that describes your understanding of the requirements and details the number of personnel by skill level/labor category needed to satisfy the objectives and requirements in [SECTION 3 SCOPE OF WORK & CONTRACT INFORMATION](#3.01). The Staffing plan is included as part of your 10-page limitation. Resumes and letters of intent are not included as part of your 10-page limitation.
 
 At a minimum, provide:
 
@@ -885,7 +885,7 @@ At a minimum, provide:
 
 i. Examples of experience building responsive web applications within the past three (3) years.
 
-ii. The summary shall include links to the public Git repository that includes the source code that was developed and accepted for the project. Actual access to a publicly available Git repository is strongly encouraged over screenshots of private repositories. The summary should also include live links of the final product or current staging environment. If live links are not available, screenshots can be provided, along with a brief explanation as to why the project is no longer live. Note that screenshots will not be counted towards your 7-page limitation; please provide screenshots as attachments. The projects should be recent and similar to the size and technical scope of this requirement.
+ii. The summary shall include links to the public Git repository that includes the source code that was developed and accepted for the project. Actual access to a publicly available Git repository is strongly encouraged over screenshots of private repositories. The summary should also include live links of the final product or current staging environment. If live links are not available, screenshots can be provided, along with a brief explanation as to why the project is no longer live. Note that screenshots will not be counted towards your 10-page limitation; please provide screenshots as attachments. The projects should be recent and similar to the size and technical scope of this requirement.
 
 ### <a name="4.08"></a>Sec. 4.08 Verbal Presentation
 
