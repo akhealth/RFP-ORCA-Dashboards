@@ -604,18 +604,17 @@ areas:
  - ASP.NET web applications 
  - .NET Core framework 
  - C\# language 
- - SQL Server
 
 * General Technology: 
  - HTML, CSS 
  - Javascript 
- - Responsive design 
- - SQL (language) 
+ - Responsive design
  - Git 
- - Experience building and using building REST APIs 
+ - Experience using REST APIs 
  - Service-based architecture 
  - Automated unit and integration testing 
  - Continuous integration and continuous delivery
+ - Building progressive web apps (web app manifests, service workers, offline functionality, push notifications, IndexedDB, localStorage, etc.)
 
 **Key Personnel**
 
