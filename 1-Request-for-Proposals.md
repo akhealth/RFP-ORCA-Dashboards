@@ -4,7 +4,7 @@
 
 **ORCA Mobile Access Tool**
 
-RFP Number: 1800000XX
+RFP Number: 1800000XXX
 
 Issue Date: TBD
 
