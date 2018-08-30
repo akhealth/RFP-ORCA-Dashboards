@@ -1,6 +1,6 @@
 # ORCA Dashboards RFP
 
-Draft RFP for the State of Alaska Office of Childrens Services to develop a task prioritization dashbopard for initial assessment & other OPCS workers.
+Draft RFP for the State of Alaska Office of Childrens Services to develop a task prioritization dashboard(s) for initial assessment & other OPCS workers.
 
 **Note - these documents are currently in draft form and are being updated to reflect project requirements and technical considerations.**
 
