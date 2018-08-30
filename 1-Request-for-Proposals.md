@@ -135,12 +135,7 @@ susan.jabal@alaska.gov<br>
 ### <a name="1.01"></a>Sec. 1.01 Purpose of the RFP
 
 The Department of Health and Social Services, Office of Children’s
-Services, is soliciting proposals for a Contractor to continuously
-deliver iterations of a mobile tool that will enhance mobile access to
-ORCA for targeted users of the system. Initially, the mobility efforts
-will focus on initial assessment workers that need to access specific
-assets in the ORCA system. More detailed information about the project
-can be found in [SECTION 3.01 Scope of Work](#3.01).
+Services, is soliciting proposals for a Contractor to continuously deliver iterations of a visual dashboard that will be accessible to OCS workers from within the ORCA user interface that will present a prioritized view of data, allowing them to more efficiently complete their work. More detailed information about the project can be found in [SECTION 3.01 Scope of Work](#3.01).
 
 ### <a name="1.02"></a>Sec. 1.02 Budget
 
@@ -395,37 +390,36 @@ approval of the project director.
 
 ### <a name="2.01"></a>Sec. 2.01 Background Information
 
-**BACKGROUND**
-
 At the request of the State of Alaska, the [18F Acquisition Team](https://18f.gsa.gov/) - a cross-functional team of technology procurement professionals housed within the General Services Administration's [Technology Transformation Service](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services) - is assisting OCS in the development of a modular procurement strategy. 18F is acting in an advisory capacity, and will be assisting OCS with various aspects of it's modernization efforts.
 
 Additional details on these efrorts can be found in the project README in the [DHSS primary GitHub Repo](https://github.com/AlaskaDHSS/ORCA-Modernization).
 
-For this acquisition, OCS seeks modular procurement activities and agile development methodology to be used in the development of a secure system allowing users mobile access to OCS’s ORCA comprehensive data system. This acquisition will be the first of several to support of a broader vision for modernization of the ORCA system.
+For this acquisition, OCS seeks modular procurement activities and agile development methodology to be used in the development of a a visual dashboard that will be accessible to OCS workers from within the ORCA user interface that will present a prioritized view of data, allowing them to more efficiently complete their work. This acquisition will be the first of several to support of a broader vision for modernization of the ORCA system.
+
+**BACKGROUND**
+
+The Office of Children’s Services works in partnership with families and communities to support the well-being of Alaska’s children and youth. To conduct its work, OCS manages the Online Resource for the Children of Alaska (ORCA), a Statewide Automated Child Welfare Information System (SACWIS). Pursuant to recently promulgated ACF regulations, OCS will transition the ORCA system to become compliant with the Comprehensive Child Welfare Information System (CCWIS) rules.
+
+This process will involve migrating the legacy ORCA application to a new technology platform, a restructuring of existing application logic to be more modular and reusable, and to provide easier access to data for reporting and compliance purposes and to provide easier integration with other state and federal information systems. Using agile development and modular procurements, OCS has the goal of implementing a CCWIS system that not only meets state and federal standards, but is user-friendly for its clients, OCS program staff, and state technical staff.
+
+**PROBLEM STATEMENT**
+
+Initial Assessment, Family Service and Generalist staff struggle to quickly organize which work is most urgent and needs to be completed first. To address this challenge, OCS is seeking to develop a dashboard view(s) that presents the necessary data to clearly display which cases workers should focus on. Case priority would be based on the various benchmarks and guidelines that define expected timeframes for work completion. The data for these benchmarks is already available to users via various reports; this data would be leveraged and made easily accessible and useable via a dashboard. By clearly expressing the priority of work, we anticipate workers will focus on the most important work first and complete more work within the recommended guidelines-and thus  better ensuring child safety. 
+
+Workers will feel more confident that they are doing the most urgent work first. Children and families will be and feel better served. Leadership will see an increase in OCS meeting its benchmarks, will be able to feel more confident that workers.
 
 **OBJECTIVES**
 
-ORCA Users need to be able to access and document key information such as entering case notes, reviewing
-Protective Services Reports (PSR), and searching for any child protection matters related to a prospective
-placement resource from a mobile device.
+Users need new pages and functionality to present them with a graphical representation of a summarized and prioritized task list, such as:
 
-This initiative will focus on Initial Assessment (investigation) staff needs to have mobile friendly capabilities to access/document information. New, device agnostic pages for mobile applications will be created in .NET.
+- Caseworker visits completed/needed.
+- Time toward achieving permanency.
+- Priority 1 Initial Assessments completed/not yet initiated
+- Case Plans Due in the current month.
 
-A focus group with 18F, end users, and the ORCA team determined which business needs are the highest
-priorities, ranked in order: 
+The CCWIS regulations emphasize the need for quality data. Clearly, worker access to live, on-demand data that helps users organize their workload will increase the accuracy and quality of required data. 
 
-1. Login to ORCA from (state issued) mobile device. When logged in users are securely connected to the
-ORCA database, the user profile, security profile and privileges are the same as in the existing
-system.
-2. Once logged in, users view a personalized mobile landing page that displays a list of protective
-services reports assigned to the user to investigate.
-3. Users can select a PSR to view details such as the allegation and narrative, case participant names
-and contact information.
-4. Users can document case notes for any assigned PSR. Included details are date occurred, attributes
-of the activity and a narrated description. The narrative can either be typed or dictated via voice to
-text (being researched – Waldo).
-5. Users can assess PSRs without internet connectivity.
-6. Users can document case notes without internet connectivity.
+A new dashboard(s) will provide information needed for users to make informed decisions about their to-do list based on the highest priority identified. Real-time visibility of this data will assist end users with identifying inaccuracies caused by data entry, or lack of, which will greatly increase the accuracy of the data.
 
 The above priorities are subject to change as the project moves forward and additional considerations are
 identified. OCS expects the successful vendor will help to identify additional and beneficial considerations,
@@ -442,7 +436,7 @@ The draft QAP is provided in a [separate file in this repository](2-Quality-Assu
 
 ### <a name="3.01"></a>Sec. 3.01  Scope of Work
 
-The State of Alaska, Office of Children’s Services (OCS) requires agile developer services to deliver iterations of a secure system allowing mobile access to the states comprehensive data system, the Online Resource for the Children of Alaska (ORCA). The current objectives of the mobility piece are identified above in Section 2.01: Background Information.
+The State of Alaska, Office of Children’s Services (OCS) requires agile developer services to deliver iterations of a visual dashboard that will be accessible to OCS workers from within the ORCA user interface that will present a prioritized view of data, allowing them to more efficiently complete their work. The current objectives of the mobility piece are identified above in Section 2.01: Background Information.
 
 The State of Alaska [will provide documentation on how to access data sources](https://github.com/18F/RFP-ORCA-Mobility/blob/master/5-Attachment%20A%20-%20DHSS%20IT%20Requirements%20Agile%20Acquisition.md#information-exchange-architecture), describe existing authentication systems, and discuss how to deploy work to a staging environment This documentation is intended to be help interested vendors further understand the limits of their responsibility within the broader scope of ORCA.
 
@@ -450,22 +444,19 @@ The State of Alaska [will provide documentation on how to access data sources](h
 
  The Contractor shall provide the following services:
 
-1.  Contractor shall review existing research artifacts and conduct
-    additional user research in order to determine user needs so that
-    the contractor can design and deliver interfaces/data views that are
-    most useful.
+1. Contractor shall develop a new user dashboard that will display data in the ORCA system in an easy to use, prioritized format allowing them to more efficiently complete their work. This prioritization of data elements will be one of the outcomes of user research activities discussed below.
 
-2.  Contractor shall conduct usability testing and gather feedback from
-    OCS workers on an ongoing basis as solutions are explored and
-    software is delivered, and incorporate feedback.
+2. Contractor shall build the new dashboard feature on the state’s identified technology stack, and in a way that will integrate easily into the existing ORCA user interface.
 
-3.  Contractor shall ensure that OCS staff can log in from a DHSS approved mobile device
+3. Contractor will work with OCS technical staff to identify needed data elements to display, and will assist the state in designing the needed API endpoints to provide data to the dashboard.
 
-4.  Contractor shall ensure that OCS staff can view a personalized mobile dashboard and view protective services report inforamtion, and that protective services report inforamtion can be viewed when staff are offline, and that such information will be synchronized when connectivity is restored.
+4. Contractor shall review existing research artifacts and conduct additional user research in order to determine user needs so that the contractor can design and deliver interfaces/data views that are most useful.
 
-5.  Contractor shall ensure that OCS staff can create new activity notes while connected through a DHSS approved mobile device, and that activitiy notes can be created when staff are offline, and that notes will be synchronized when connectivity is restored.
+5. Contractor shall conduct usability testing and gather feedback from OCS workers on an ongoing basis as solutions are explored and software is delivered, and incorporate feedback.
 
-6.  Contractor shall continuously deliver working software for use in the Alaska production environment.
+6. Contractor shall ensure that solution integrates with existing technology choices and technical stack.
+
+7. Contractor shall continuously deliver working software for use in the Alaska production environment.
 
 **Additional requirements:**
 
@@ -501,7 +492,7 @@ The State of Alaska [will provide documentation on how to access data sources](h
 
 10. Contractor shall work with the State of Alaska to ensure that
     support and operations teams are trained.
-
+    
 **The following tasks are not required:**
 
 1.  Provide or configure hosting of the data or the site

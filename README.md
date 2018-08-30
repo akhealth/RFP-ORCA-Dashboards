@@ -1,12 +1,12 @@
-# ORCA Mobility RFP
+# ORCA Dashboards RFP
 
-Draft RFP for the State of Alaska Office of Childrens Services to provide mobile access to initial assessment workers.
+Draft RFP for the State of Alaska Office of Childrens Services to develop a task prioritization dashboard(s) for initial assessment & other OPCS workers.
 
-Note - these documents are currently in draft form and are being updated to reflect project requirements and technical considerations. 
+**Note - these documents are currently in draft form and are being updated to reflect project requirements and technical considerations.**
 
 ## Contributing
 
-To add changes to this draft RFP, create a new branch with your changes and submit a [pull request](https://github.com/18F/RFP-ORCA-Mobility/pulls) to merge into `master`. Please add the appropriate reviewer(s) to your PR and get a :thumbsup: before merging.
+To add changes to this draft RFP, create a new branch with your changes and submit a [pull request](../../pulls) to merge into `master`. Please add the appropriate reviewer(s) to your PR and get a :thumbsup: before merging.
 
 
 ## Public domain
