@@ -6,7 +6,7 @@ Draft RFP for the State of Alaska Office of Childrens Services to develop a task
 
 ## Contributing
 
-To add changes to this draft RFP, create a new branch with your changes and submit a [pull request](https://github.com/18F/RFP-ORCA-Mobility/pulls) to merge into `master`. Please add the appropriate reviewer(s) to your PR and get a :thumbsup: before merging.
+To add changes to this draft RFP, create a new branch with your changes and submit a [pull request](../../pulls) to merge into `master`. Please add the appropriate reviewer(s) to your PR and get a :thumbsup: before merging.
 
 
 ## Public domain
